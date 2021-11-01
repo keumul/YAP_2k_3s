@@ -1,0 +1,26 @@
+0   : S->tfi(F){NrE;};S   tfi((ti,ti){dti;i=iv(ivi)     S$                  
+0   : SAVESTATE:          1
+0   :                     tfi((ti,ti){dti;i=iv(ivi)     tfi(F){NrE;};S$     
+1   :                     fi((ti,ti){dti;i=iv(ivi);     fi(F){NrE;};S$      
+2   :                     i((ti,ti){dti;i=iv(ivi);r     i(F){NrE;};S$       
+3   :                     ((ti,ti){dti;i=iv(ivi);ri     (F){NrE;};S$        
+4   :                     (ti,ti){dti;i=iv(ivi);ri;     F){NrE;};S$         
+5   : TNS_NORULECHAIN/NS_NORULE
+5   : RESTATE             
+5   :                     tfi((ti,ti){dti;i=iv(ivi)     S$                  
+6   : S->tfi(F){NrE;};    tfi((ti,ti){dti;i=iv(ivi)     S$                  
+6   : SAVESTATE:          1
+6   :                     tfi((ti,ti){dti;i=iv(ivi)     tfi(F){NrE;};$      
+7   :                     fi((ti,ti){dti;i=iv(ivi);     fi(F){NrE;};$       
+8   :                     i((ti,ti){dti;i=iv(ivi);r     i(F){NrE;};$        
+9   :                     ((ti,ti){dti;i=iv(ivi);ri     (F){NrE;};$         
+10  :                     (ti,ti){dti;i=iv(ivi);ri;     F){NrE;};$          
+11  : TNS_NORULECHAIN/NS_NORULE
+11  : RESTATE             
+11  :                     tfi((ti,ti){dti;i=iv(ivi)     S$                  
+12  : TNS_NORULECHAIN/NS_NORULE
+13  : ------>NS_NORULE    
+------------------------------------------------------------------------------------------   ------
+603: строка 0,	Ошибка в параметрах функции
+603: строка 0,	Ошибка в параметрах функции
+600: строка 0,	Неверная структура программы
